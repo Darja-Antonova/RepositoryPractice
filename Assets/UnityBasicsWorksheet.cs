@@ -26,7 +26,7 @@ public class UnityBasicsWorksheet : MonoBehaviour
         // Start() runs ONCE when the game begins
         // Uncomment the section you want to try!
 
-        TryVariables();
+        /*TryVariables();
         TryMath();
         TryIfStatements();
         TryForLoop();
@@ -36,6 +36,7 @@ public class UnityBasicsWorksheet : MonoBehaviour
         TryTransform();
         TryArrays();
         TrySwitch();
+        */
     }
 
     void Update()
@@ -43,7 +44,7 @@ public class UnityBasicsWorksheet : MonoBehaviour
         // Update() runs EVERY FRAME
         // Uncomment this to make something happen continuously:
 
-        TryInput();
+        //TryInput();
     }
 
 
